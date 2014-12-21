@@ -8,12 +8,12 @@
   "annal:group_fields": [
     {
       "annal:property_uri": "bib:id",
-      "annal:field_placement": "small:0,12",
+      "annal:field_placement": "small:0,6",
       "annal:field_id": "Bib_id"
     },
     {
       "annal:property_uri": "bib:name",
-      "annal:field_placement": "small:0,12",
+      "annal:field_placement": "small:6,6",
       "annal:field_id": "Bib_name"
     },
     {
