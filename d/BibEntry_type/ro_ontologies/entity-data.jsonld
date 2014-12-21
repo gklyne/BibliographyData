@@ -1,0 +1,96 @@
+{
+  "rdfs:label": "",
+  "rdfs:comment": "",
+  "bib:journal": [
+    {
+      "bib:shortcode": "ArXiv",
+      "bib:name": "ArXiv",
+      "bib:id": "arxiv",
+      "bib:volume": "2014"
+    }
+  ],
+  "bib:type": "article",
+  "bib:author": [
+    {
+      "bib:name": "Zhao, J.",
+      "bib:firstname": "Jun",
+      "bib:lastname": "Zhao",
+      "bib:alternate": "Jun Zhao",
+      "bib:id": "zhao_j"
+    },
+    {
+      "bib:name": "Corcho, O.",
+      "bib:firstname": "\u00d3scar",
+      "bib:lastname": "Corcho",
+      "bib:alternate": "\u00d3scar Corcho",
+      "bib:id": "corcho_o"
+    },
+    {
+      "bib:name": "Klyne, G.",
+      "bib:firstname": "Graham",
+      "bib:lastname": "Klyne",
+      "bib:alternate": "Graham Klyne",
+      "bib:id": "klyne_g"
+    },
+    {
+      "bib:name": "Bechhofer, S.",
+      "bib:firstname": "Sean",
+      "bib:lastname": "Bechhofer",
+      "bib:alternate": "Sean Bechhofer",
+      "bib:id": "bechhofer_s"
+    },
+    {
+      "bib:name": "Goble, C.",
+      "bib:firstname": "Carole",
+      "bib:lastname": "Goble",
+      "bib:alternate": "Carole Goble",
+      "bib:id": "goble_c"
+    },
+    {
+      "bib:name": "Garijo, D.",
+      "bib:firstname": "Daniel",
+      "bib:lastname": "Garijo",
+      "bib:alternate": "Daniel Garijo",
+      "bib:id": "garijo_d"
+    },
+    {
+      "bib:name": "Hettne, K.",
+      "bib:firstname": "Kristina",
+      "bib:lastname": "Hettne",
+      "bib:alternate": "Kristina Hettne",
+      "bib:id": "hettne_k"
+    },
+    {
+      "bib:name": "Palma, R.",
+      "bib:firstname": "Raul",
+      "bib:lastname": "Palma",
+      "bib:alternate": "Raul Palma",
+      "bib:id": "palma_r"
+    },
+    {
+      "bib:name": "G\u00f3mez-P\u00e9rez, J.-M.",
+      "bib:firstname": "Jos\u00e9-Manuel",
+      "bib:lastname": "G\u00f3mez-P\u00e9rez",
+      "bib:alternate": "Jos\u00e9-Manuel G\u00f3mez-P\u00e9rez",
+      "bib:id": "gomez_perez_j_m"
+    }
+  ],
+  "annal:type_id": "BibEntry_type",
+  "bib:title": "The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web",
+  "bib:note": "Khalid Belhajjame, Jun Zhao, Daniel Garijo, Kristina Hettne, Raul Palma, \u00d3scar Corcho, Jos\u00e9-Manuel G\u00f3mez-P\u00e9rez, Sean Bechhofer, Graham Klyne, Carole Goble. The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web, \u2028ArXiv 2014\u2028",
+  "bib:year": "2014",
+  "bib:editor": [],
+  "bib:publication_details": [],
+  "bib:license": [],
+  "bib:bookentry": [],
+  "@id": "./",
+  "bib:identifier": [],
+  "bib:month": "",
+  "annal:url": "/annalist/c/BibliographyData/d/BibEntry_type/ro_ontologies/",
+  "annal:id": "ro_ontologies",
+  "@type": [
+    "annal:BibEntry",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

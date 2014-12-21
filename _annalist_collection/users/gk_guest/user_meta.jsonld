@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Graham Klyne",
+  "rdfs:comment": "User gk_guest: permissions for Graham Klyne in collection BibliographyData",
+  "annal:user_uri": "mailto:graham.klyne@oerc.ox.ac.uk",
+  "annal:type_id": "_user",
+  "annal:url": "/annalist/c/BibliographyData/d/_user/gk_guest/",
+  "annal:user_permissions": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG"
+  ],
+  "annal:id": "gk_guest",
+  "@id": "./",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:type": "annal:User"
+}
