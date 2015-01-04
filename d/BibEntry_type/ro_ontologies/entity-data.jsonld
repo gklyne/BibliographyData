@@ -1,5 +1,5 @@
 {
-  "rdfs:label": "",
+  "rdfs:label": "The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web",
   "rdfs:comment": "",
   "bib:journal": [
     {
@@ -96,7 +96,7 @@
   "annal:url": "/annalist/c/BibliographyData/d/BibEntry_type/ro_ontologies/",
   "annal:id": "ro_ontologies",
   "@type": [
-    "annal:BibEntry",
+    "bib:BibEntry",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

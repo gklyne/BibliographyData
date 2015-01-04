@@ -160,7 +160,7 @@
   "annal:url": "/annalist/c/BibliographyData/d/BibEntry_type/ro_research_methods/",
   "annal:id": "ro_research_methods",
   "@type": [
-    "annal:BibEntry",
+    "bib:BibEntry",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"
