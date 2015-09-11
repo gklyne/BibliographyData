@@ -8,7 +8,7 @@
     }
   ],
   "annal:type_id": "_type",
-  "annal:uri": "annal:BibEntry",
+  "annal:uri": "bib:BibEntry",
   "annal:url": "/annalist/c/BibliographyData/d/_type/BibEntry_type/",
   "annal:type_list": "BibEntry_list",
   "annal:id": "BibEntry_type",

@@ -5,6 +5,7 @@
     {
       "bib:shortcode": "ArXiv",
       "bib:name": "ArXiv",
+      "bib:Bib_number": "",
       "bib:id": "arxiv",
       "bib:volume": "2014"
     }
@@ -84,20 +85,20 @@
   ],
   "annal:type_id": "BibEntry_type",
   "bib:title": "The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web",
-  "bib:note": "Khalid Belhajjame, Jun Zhao, Daniel Garijo, Kristina Hettne, Raul Palma, \u00d3scar Corcho, Jos\u00e9-Manuel G\u00f3mez-P\u00e9rez, Sean Bechhofer, Graham Klyne, Carole Goble. The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web, ArXiv 2014",
+  "bib:license": [],
   "bib:year": "2014",
   "bib:editor": [],
   "bib:publication_details": [],
-  "bib:license": [],
+  "bib:note": "Khalid Belhajjame, Jun Zhao, Daniel Garijo, Kristina Hettne, Raul Palma, \u00d3scar Corcho, Jos\u00e9-Manuel G\u00f3mez-P\u00e9rez, Sean Bechhofer, Graham Klyne, Carole Goble. The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web, ArXiv 2014",
   "bib:bookentry": [],
   "@id": "./",
   "bib:identifier": [],
-  "bib:month": "",
+  "annal:type": "annal:EntityData",
   "annal:url": "/annalist/c/BibliographyData/d/BibEntry_type/ro_ontologies/",
   "annal:id": "ro_ontologies",
   "@type": [
-    "annal:BibEntry",
+    "bib:BibEntry",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "bib:month": ""
 }
