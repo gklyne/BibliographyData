@@ -48,120 +48,120 @@
       "bib:id": "belhajjame_k"
     },
     {
-      "bib:id": "soiland_reyes_s",
       "bib:name": "Soiland-Reyes, S.",
-      "bib:alternate": "Stian Soiland-Reyes",
       "bib:firstname": "Stian",
-      "bib:lastname": "Soiland-Reyes"
+      "bib:lastname": "Soiland-Reyes",
+      "bib:alternate": "Stian Soiland-Reyes",
+      "bib:id": "soiland_reyes_s"
     },
     {
-      "bib:id": "mina_e",
       "bib:name": "Mina, E.",
-      "bib:alternate": "Eleni Mina",
       "bib:firstname": "Eleni",
-      "bib:lastname": "Mina"
+      "bib:lastname": "Mina",
+      "bib:alternate": "Eleni Mina",
+      "bib:id": "mina_e"
     },
     {
-      "bib:id": "thompson_m",
       "bib:name": "Thompson, M.",
-      "bib:alternate": "Mark Thompson",
       "bib:firstname": "Mark",
-      "bib:lastname": "Thompson"
+      "bib:lastname": "Thompson",
+      "bib:alternate": "Mark Thompson",
+      "bib:id": "thompson_m"
     },
     {
-      "bib:id": "cruickshank_d",
       "bib:name": "Cruickshank, D.",
-      "bib:alternate": "Don Cruickshank",
       "bib:firstname": "Don",
-      "bib:lastname": "Cruickshank"
+      "bib:lastname": "Cruickshank",
+      "bib:alternate": "Don Cruickshank",
+      "bib:id": "cruickshank_d"
     },
     {
-      "bib:id": "verdes_montenegro_l",
       "bib:name": "Verdes-Montenegro, L.",
-      "bib:alternate": "Lourdes Verdes-Montenegro",
       "bib:firstname": "Lourdes",
-      "bib:lastname": "Verdes-Montenegro"
+      "bib:lastname": "Verdes-Montenegro",
+      "bib:alternate": "Lourdes Verdes-Montenegro",
+      "bib:id": "verdes_montenegro_l"
     },
     {
-      "bib:id": "garrido_j",
       "bib:name": "Garrido, J.",
-      "bib:alternate": "Julian Garrido",
       "bib:firstname": "Julian",
-      "bib:lastname": "Garrido"
+      "bib:lastname": "Garrido",
+      "bib:alternate": "Julian Garrido",
+      "bib:id": "garrido_j"
     },
     {
-      "bib:id": "de_roure_d",
       "bib:name": "de Roure, D.",
-      "bib:alternate": "David de Roure",
       "bib:firstname": "David",
-      "bib:lastname": "de Roure"
+      "bib:lastname": "de Roure",
+      "bib:alternate": "David de Roure",
+      "bib:id": "de_roure_d"
     },
     {
-      "bib:id": "corcho_o",
       "bib:name": "Corcho, O.",
-      "bib:alternate": "Oscar Corcho",
       "bib:firstname": "Oscar",
-      "bib:lastname": "Corcho"
+      "bib:lastname": "Corcho",
+      "bib:alternate": "Oscar Corcho",
+      "bib:id": "corcho_o"
     },
     {
-      "bib:id": "klyne_g",
       "bib:name": "Klyne, G.",
-      "bib:alternate": "Graham Klyne",
       "bib:firstname": "Graham",
-      "bib:lastname": "Klyne"
+      "bib:lastname": "Klyne",
+      "bib:alternate": "Graham Klyne",
+      "bib:id": "klyne_g"
     },
     {
-      "bib:id": "schouwen_v",
       "bib:name": "van Schouwen, R.",
-      "bib:alternate": "Reinout van Schouwen",
       "bib:firstname": "Reinout",
-      "bib:lastname": "van Schouwen"
+      "bib:lastname": "van Schouwen",
+      "bib:alternate": "Reinout van Schouwen",
+      "bib:id": "schouwen_v"
     },
     {
-      "bib:id": "thoen_p",
       "bib:name": "'t Hoen, P. A. C.",
       "bib:firstname": "Peter",
       "bib:lastname": "'t Hoen",
-      "bib:alternate": "Peter A. C. 't Hoen"
+      "bib:alternate": "Peter A. C. 't Hoen",
+      "bib:id": "thoen_p"
     },
     {
-      "bib:id": "bechhofer_s",
       "bib:name": "Bechhofer, S.",
-      "bib:alternate": "Sean Bechhofer",
       "bib:firstname": "Sean",
-      "bib:lastname": "Bechhofer"
+      "bib:lastname": "Bechhofer",
+      "bib:alternate": "Sean Bechhofer",
+      "bib:id": "bechhofer_s"
     },
     {
-      "bib:id": "goble_c",
       "bib:name": "Goble, C.",
-      "bib:alternate": "Carole Goble",
       "bib:firstname": "Carole",
-      "bib:lastname": "Goble"
+      "bib:lastname": "Goble",
+      "bib:alternate": "Carole Goble",
+      "bib:id": "goble_c"
     },
     {
-      "bib:id": "roos_m",
       "bib:name": "Roos, M.",
-      "bib:alternate": "Marco Roos",
       "bib:firstname": "Marco",
-      "bib:lastname": "Roos"
+      "bib:lastname": "Roos",
+      "bib:alternate": "Marco Roos",
+      "bib:id": "roos_m"
     }
- ],
+  ],
   "annal:type_id": "BibEntry_type",
   "bib:title": "Structuring research methods and data with the Research Object model: genomics workflows as a case study",
-  "bib:note": "Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole Goble, Marco Roos\u2028. Structuring research methods and data with the Research Object model: genomics workflows as a case study, Journal of Biomedical Semantics. 09/2014; 5(41)\u2028",
+  "bib:license": [],
   "bib:year": "2014",
   "bib:editor": [],
   "bib:publication_details": [],
-  "bib:license": [],
+  "bib:note": "Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole Goble, Marco Roos\u2028. Structuring research methods and data with the Research Object model: genomics workflows as a case study, Journal of Biomedical Semantics. 09/2014; 5(41)\u2028",
   "bib:bookentry": [],
   "@id": "./",
   "bib:identifier": [],
-  "bib:month": "09",
+  "annal:type": "annal:EntityData",
   "annal:url": "/annalist/c/BibliographyData/d/BibEntry_type/ro_research_methods/",
   "annal:id": "ro_research_methods",
   "@type": [
     "bib:BibEntry",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "bib:month": "09"
 }
