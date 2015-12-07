@@ -1,9 +1,12 @@
 {
   "rdfs:label": "Bibliographic data",
   "rdfs:comment": "",
+  "annal:software_version": "0.1.22",
   "annal:type_id": "_collection",
-  "annal:url": "/annalist/c/BibliographyData/",
   "annal:default_list": "BibEntry_list",
+  "@context": [
+    "coll_context.jsonld"
+  ],
   "annal:id": "BibliographyData",
   "@id": "../",
   "@type": [
