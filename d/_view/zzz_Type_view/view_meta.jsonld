@@ -1,0 +1,57 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/zzz_Type_view",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:add_field": "no",
+  "annal:id": "zzz_Type_view",
+  "annal:open_view": true,
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:view_entity_type": "annal:Type",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "_field/Type_id",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Type_label",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Type_comment",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Type_uri",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Type_view",
+      "annal:field_placement": "small:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Type_list",
+      "annal:field_placement": "small:6,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Type_aliases",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    }
+  ],
+  "rdfs:comment": "This resource describes the form that is used when displaying and/or editing a record type description",
+  "rdfs:label": "zzz View description for record type description"
+}

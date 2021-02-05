@@ -1,0 +1,60 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "zzz_BibEntry_type/ro_ontologies",
+  "@type": [
+    "bib:BibEntry",
+    "annal:EntityData"
+  ],
+  "annal:id": "ro_ontologies",
+  "annal:type": "bib:BibEntry",
+  "annal:type_id": "zzz_BibEntry_type",
+  "bib:author": [
+    {
+      "bib:alternate": "Khalid Belhajjame",
+      "bib:firstname": "Khalid",
+      "bib:id": "belhajjame_k",
+      "bib:lastname": "Belhajjame",
+      "bib:name": "Belhajjame, K."
+    },
+    {
+      "bib:alternate": "Kristina Hettne",
+      "bib:firstname": "Kristina",
+      "bib:id": "hettne_k",
+      "bib:lastname": "Hettne",
+      "bib:name": "Hettne, K."
+    }
+  ],
+  "bib:bookentry": [],
+  "bib:editor": [],
+  "bib:identifier": [
+    {
+      "bib:anchor": "",
+      "bib:id": "yyz",
+      "bib:type": "ISBN",
+      "bib:url": ""
+    }
+  ],
+  "bib:journal": [
+    {
+      "bib:Bib_number": "",
+      "bib:id": "arxiv",
+      "bib:name": "ArXiv",
+      "bib:shortcode": "ArXiv",
+      "bib:volume": "2014"
+    }
+  ],
+  "bib:license": [],
+  "bib:month": "",
+  "bib:note": "Khalid Belhajjame, Jun Zhao, Daniel Garijo, Kristina Hettne, Raul Palma, \u00d3scar Corcho, Jos\u00e9-Manuel G\u00f3mez-P\u00e9rez, Sean Bechhofer, Graham Klyne, Carole Goble. The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web, ArXiv 2014",
+  "bib:publication_details": [],
+  "bib:title": "The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web",
+  "bib:type": "Enum_bib_type/inproceedings",
+  "bib:year": "2014",
+  "rdfs:comment": "The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web",
+  "rdfs:label": "The Research Object Suite of Ontologies: Sharing and Exchanging Research Data and Methods on the Open Web"
+}

@@ -1,4 +1,8 @@
-BibliographyData
-================
+# Annalist collection `BibliographyData`
 
-Annalist-created bibliographic data
+This directory contains an [Annalist](http://annalist.net) data collection.
+
+# Bibliographic data
+
+Bibliographic data
+

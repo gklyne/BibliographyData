@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_user/gk_guest",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:id": "gk_guest",
+  "annal:type": "annal:User",
+  "annal:type_id": "_user",
+  "annal:user_permission": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG"
+  ],
+  "annal:user_uri": "mailto:graham.klyne@oerc.ox.ac.uk",
+  "rdfs:comment": "User gk_guest: permissions for Graham Klyne in collection BibliographyData",
+  "rdfs:label": "Graham Klyne"
+}
